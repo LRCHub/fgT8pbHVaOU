@@ -1,53 +1,43 @@
-# SawanoHiroyuki[nZk] – Avid（feat. mizuki）
+# 澤野　弘之 – Voices of the Chord
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:12.66] か弱い光が指差す先
-[00:18.52] Silent haze 霞がちに止まる影
-[00:31.09] ぎこちない Innocent calm
-[00:40.59] 
-[00:37.43] Close my eyes and figure out the vacancy
-[00:42.85] Don't know what I wanted or you made me do
-[00:49.44] 散り散りに刻む
-[00:54.18] 本当の世界で笑えるか？
-[00:59.68] 
-[01:00.03] Don't you get there? It calls, it calls
-[01:05.72] 仰いだ空が色変えるから
-[01:11.84] My naked heart can hear echoes, echoes
-[01:18.10] 識らず求めた Avidity
-[01:25.10] 
-[01:38.28] 拙い祈りが織りなす波
-[01:44.27] Violent maze 砂にまみれ埋まる足
-[01:50.62] 鼓膜に響く in 2 下される
-[01:56.13] とめどない Resonant harm
-[02:05.63] 
-[02:02.52] Plug my ears and figure out the tendency
-[02:09.51] You don't know how reckless you are
-[02:11.99] You make me blue
-[02:15.11] 絶え絶えに噤む
-[02:20.34] 本当の思いを拾えるか？
-[02:25.84] 
-[02:26.07] Don't you get there? It calls, it calls
-[02:32.25] 意固地な希望を拓く螺旋の奏
-[02:38.42] My rusted heart can hear echoes, echoes
-[02:44.02] あの日なくした Avidity
-[02:51.52] 
-[02:52.48] Whisper your name again
-[02:58.89] Then restart it right away
-[03:03.40] Oh my bitter color ardor wander
-[03:08.13] Gotta feel it undercover
-[03:11.06] 行方も知らない
-[03:14.56] 
-[03:15.66] Don't you get there? It calls, it calls
-[03:21.39] 仰いだ空が色を変えるから
-[03:27.22] My naked heart can hear echoes, echoes
-[03:33.88] 識らず求めた Avidity
-[03:40.88] 
-[03:42.38] Whisper your name again
-[03:48.16] Then restart it right away
-[03:53.33] Oh my bitter color ardor wander
-[03:57.43] Gotta feel it undercover
-[04:00.64] 行方も知らない
-[04:03.57] あの日の群青
+[00:13.63] Hunger for the sleep I know will never come
+[00:20.41] Crowded is the space but don't have anyone
+[00:27.17] I could read the Bible to drown out the hum
+[00:33.49] Avoid the voices of the Chord
+[00:47.99] 
+[00:40.79] All the roads inside my head loop back to you
+[00:47.39] I've done many things I'd thought I'd never do
+[00:53.72] It's you that I can feel
+[00:59.13] But I keep my hands
+[01:02.38] Upon the wheel
+[01:09.38] 
+[01:06.15] I turn the page to drown you out
+[01:12.55] You are the only thing that I still care about
+[01:19.30] If I can heal the conflict that's within
+[01:26.29] I'll know the war has reached the bitter end
+[01:48.29] 
+[01:35.72] Ocean, you're calling me
+[01:42.08] A place with no memory
+[01:47.45] You'll see!
+[01:48.52] I burned the Blood
+[01:50.31] I passed the test
+[01:51.92] And now my love is laid to rest
+[01:55.49] Our names aren't written on the list
+[02:13.49] 
+[02:00.07] I turn the page to drown you out
+[02:06.65] You are the only thing that I still care about
+[02:13.45] If I can heal the conflict that's within
+[02:20.31] I'll know the war has reached the bitter end
+[02:42.31] 
+[02:29.55] Ocean, you're calling me
+[02:36.31] A place with no memory
+[02:41.58] You'll see!
+[02:42.86] I burned the blood
+[02:44.38] I passed the test
+[02:45.94] And now my love is laid to rest
+[02:49.38] Our names aren't written on the list
+[02:52.72] But you and I know we exist
 ```

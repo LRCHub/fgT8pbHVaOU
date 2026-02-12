@@ -1,64 +1,88 @@
 {
   "version": 1,
-  "base_track": "Avid（feat. mizuki）",
-  "base_artist": "SawanoHiroyuki[nZk]",
-  "createdAt": "2026-01-12T13:56:04.559380Z",
+  "base_track": "Voices of the Chord",
+  "base_artist": "澤野　弘之",
+  "createdAt": "2026-02-12T19:44:57.505390Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Avid (feat. mizuki)",
-      "artist": "SawanoHiroyuki[nZk]",
+      "title": "voices of the chord",
+      "artist": "gemie",
       "has_synced": true,
-      "path": "select/01_Avid_(feat._mizuki)_SawanoHiroyuki[nZk].lrc"
+      "path": "select/01_voices_of_the_chord_gemie.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Avid (feat. mizuki)",
-      "artist": "SawanoHiroyuki[nZk]",
+      "title": "Voices of the Chord",
+      "artist": "Hiroyuki Sawano",
       "has_synced": true,
-      "path": "select/02_Avid_(feat._mizuki)_SawanoHiroyuki[nZk].lrc"
+      "path": "select/02_Voices_of_the_Chord_Hiroyuki_Sawano.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Avid (feat. mizuki)",
-      "artist": "SawanoHiroyuki[nZk]",
+      "title": "Voices of the Chord",
+      "artist": "澤野弘之",
       "has_synced": true,
-      "path": "select/03_Avid_(feat._mizuki)_SawanoHiroyuki[nZk].lrc"
+      "path": "select/03_Voices_of_the_Chord_澤野弘之.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Avid (feat. mizuki)",
-      "artist": "SawanoHiroyuki[nZk]",
+      "title": "Voices of the Chord",
+      "artist": "Sawano Hiroyuki",
       "has_synced": true,
-      "path": "select/04_Avid_(feat._mizuki)_SawanoHiroyuki[nZk].lrc"
+      "path": "select/04_Voices_of_the_Chord_Sawano_Hiroyuki.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Avid (feat. mizuki)",
-      "artist": "SawanoHiroyuki[nZk]",
+      "title": "Voices of the Chord",
+      "artist": "VA",
       "has_synced": true,
-      "path": "select/05_Avid_(feat._mizuki)_SawanoHiroyuki[nZk].lrc"
+      "path": "select/05_Voices_of_the_Chord_VA.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "Avid (feat.mizuki)",
-      "artist": "SawanoHiroyuki[nZk]",
+      "title": "Voices of the Chord",
+      "artist": "Sawano, Hiroyuki",
       "has_synced": true,
-      "path": "select/06_Avid_(feat.mizuki)_SawanoHiroyuki[nZk].lrc"
+      "path": "select/06_Voices_of_the_Chord_Sawano,_Hiroyuki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Voices of the Chord",
+      "artist": "Hiroyuki Sawano, Gemie",
+      "has_synced": true,
+      "path": "select/07_Voices_of_the_Chord_Hiroyuki_Sawano,_Gemie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Voices of the Chord (instrumental)",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/08_Voices_of_the_Chord_(instrumental)_澤野弘之.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Voices of the Chord",
+      "artist": "Sawano, Hiroyuki",
+      "has_synced": false,
+      "path": "select/09_Voices_of_the_Chord_Sawano,_Hiroyuki.txt"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Avid",
-      "artist": "SawanoHiroyuki[nZk]:mizuki",
+      "title": "Voices of the Chord",
+      "artist": "澤野弘之",
       "has_synced": false,
-      "path": "select/pl_01_Avid_SawanoHiroyuki[nZk]_mizuki.txt"
+      "path": "select/pl_01_Voices_of_the_Chord_澤野弘之.txt"
     }
   ]
 }
